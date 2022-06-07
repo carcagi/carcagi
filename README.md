@@ -19,6 +19,8 @@ I have been a software developer for more time than I can remember. Not only tha
 
 I consider myself an eternal learner, and I love learning new things, even if it's just for fun, this allowed me to open my mind and have a lot of "hello world" programs in different programming languages. Also, I have learned how to communicate effectively with my teammates and the stakeholders, how to gather requirements, and how to stay on time and budget.
 
+I have knowledge in Software Architecture, Cloud, and the entire development - operations cycle.
+
 Through the years I have come to develop using a variety of tools, some people call this collection of tools/knowledge "the stack".
 
 - PHP, Python (Web, ML, DS), JavaScript, C, C++, Scala.
@@ -32,8 +34,10 @@ Through the years I have come to develop using a variety of tools, some people c
 I am interested in Machine Learning and Blockchain Development.
 
 <p align="left">
+  <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
